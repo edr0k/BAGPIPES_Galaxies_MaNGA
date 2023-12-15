@@ -167,7 +167,10 @@ production/
 #large files
 *fits
 
-*phys_live.points*
+*_live.points*
 *post_equal_weights.dat*
 *summary.txt*
 *_stats.dat*
+*_ev.dat*
+*_post_separate.dat*
+*_resume.dat*
