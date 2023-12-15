@@ -1,0 +1,21 @@
+filter_list = ['filters/PANDA/PLW.dat','filters/PANDA/PMW.dat', 'filters/PANDA/PSW.dat', 'filters/PANDA/PACS_blue.dat', '??', 
+               '??', 
+               'filters/PANDA/WISE4.dat', 'filters/PANDA/WISE3.dat', 'filters/PANDA/WISE2.dat', 'filters/PANDA/WISE1.dat', 
+               'filters/PANDA/Ks_2mass.dat', 'filters/PANDA/H_2mass.dat', 'filters/PANDA/J_2mass.dat', 
+               'filters/PANDA/PAN-STARRS_y.dat', 
+               'filters/PANDA/z_prime.dat', 'filters/PANDA/i_prime.dat', 'filters/PANDA/r_prime.dat', 'filters/PANDA/g_prime.dat', 'filters/PANDA/u_prime.dat',  
+               'filters/PANDA/NUV.dat', 'filters/PANDA/FUV.dat', 
+               '??', '??',
+               'filters/PANDA/L18W.dat', 'filters/PANDA/S9W.dat',
+               'filters/PANDA/IRAC4.dat', 'filters/PANDA/IRAC3.dat', 'filters/PANDA/IRAC2.dat', 'filters/PANDA/IRAC1.dat']
+
+mags = ['herschel.spire.PLW', 'herschel.spire.PMW', 'herschel.spire.PSW', 'herschel.pacs.160', 'herschel.pacs.100', 
+        'spitzer.mips.24', 
+        'WISE4', 'WISE3', 'WISE2', 'WISE1', 
+        '2mass.Ks', '2mass.H', '2mass.J', 
+        'PAN-STARRS_y', 
+        'SDSS.z', 'SDSS.i', 'SDSS.r', 'SDSS.g', 'SDSS.u', 
+        'galex.NUV', 'galex.FUV', 
+        'VLA_L', 'VLA_C', 
+        'L18W', 'S9W', 
+        'spitzer.irac.ch4', 'spitzer.irac.ch3', 'spitzer.irac.ch2', 'spitzer.irac.ch1']
